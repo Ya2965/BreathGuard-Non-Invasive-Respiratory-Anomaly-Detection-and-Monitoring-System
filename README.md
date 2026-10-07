@@ -1,0 +1,2 @@
+# BreathGuard-Non-Invasive-Respiratory-Anomaly-Detection-and-Monitoring-System
+BreathGuard is a non-invasive respiratory monitoring system designed to detect potential respiratory anomalies by combining contactless breathing-rate monitoring with exhaled-breath VOC sensing.  The system uses an ESP32 as the main controller and FreeRTOS for real-time sensor acquisition, data processing, anomaly detection, and alert generation.
