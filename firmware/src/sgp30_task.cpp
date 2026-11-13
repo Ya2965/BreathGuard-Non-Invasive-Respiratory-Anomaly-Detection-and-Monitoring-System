@@ -2,6 +2,7 @@
  * SGP30 task (Smart Mask)
  * Reads TVOC + eCO2 at 1 Hz and flags exhalation when eCO2 keeps rising.
  */
+
 #include <Wire.h>
 #include "Adafruit_SGP30.h"
 #include "config.h"
